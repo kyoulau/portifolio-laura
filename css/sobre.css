@@ -139,7 +139,11 @@ h2{
   padding-bottom: 20px;
 } */
 .about-right {
-  width: 54%;
+  width: 50vw;
+}
+
+.about-left{
+  width: 50vw;
 }
 
 .about-right ul li {
@@ -156,7 +160,7 @@ h2{
 .about-right p {
   color: #444;
   line-height: 26px;
-  font-size: 15px;
+  font-size: 1rem;
 }
 
 .about-right .address {
